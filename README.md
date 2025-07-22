@@ -56,6 +56,15 @@ This repo tracks everything I’ve learned so far – from the basics of network
 
 ---
 
+## 🧠 Goals (2025)
+
+- [ ] Get my first internship in cybersecurity
+- [ ] Complete TryHackMe Complete Beginner Path
+- [ ] Participate in a beginner CTF event
+- [ ] Start learning Bash scripting + tools development
+
+---
+
 ## 📫 Contact
 
 Feel free to connect or follow me on GitHub!  
